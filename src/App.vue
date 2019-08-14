@@ -43,8 +43,7 @@ export default {
   transform: rotate(-90deg);
 }
 .main-container {
-  display: flex;
-  justify-content: center;
+  padding: 64px;
 }
 * {
   margin: 0;
